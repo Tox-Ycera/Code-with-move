@@ -1,0 +1,15 @@
+﻿{
+  "type": "module",
+  "name": "move-ai",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "ts-node testfile.ts",
+    "start": "ts-node testfile.ts",
+    "test": "ts-node testfile.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
